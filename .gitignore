@@ -29,8 +29,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env*.local
-# .env
+# (All env files are now tracked intentionally)
 
 # vercel
 .vercel
